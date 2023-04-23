@@ -15,7 +15,7 @@ cyrillic_letters = {
     u'м': u'm',
     u'н': u'n',
     u'о': u'o',
-    u'п': u'n',
+    u'п': u'p',
     u'р': u'r',
     u'с': u's',
     u'т': u't',
