@@ -3,4 +3,4 @@ from .models import Vacancy
 
 def home(request):
     qs = Vacancy.objects.all()
-    return  render(request, 'home.html', {'object_list': qs})
+    return render(request, 'base.html', {'object_list': qs, 'name': 'ssssss'})
